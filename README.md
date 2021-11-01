@@ -12,6 +12,7 @@ There were no machine learning libraries used.
 ## Running the System
 
 The model can be trained by downloading the dataset and running the python script scripts/run.py.
+the data needs too be downloaded.
 
 ## Contents
 
